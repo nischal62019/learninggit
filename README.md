@@ -1,3 +1,0 @@
-# learninggit
-
-Sample readme
